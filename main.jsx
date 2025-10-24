@@ -1,4 +1,4 @@
-// Punto de entrada de la app — modificado por Tiago (Octubre 2025)
+
 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
