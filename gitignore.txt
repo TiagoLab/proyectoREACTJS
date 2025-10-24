@@ -1,6 +1,6 @@
-# .gitignore personalizado por Tiago — ajustes mínimos para dejar mi marca
 
-# Archivos de logs (modificado por Tiago)
+
+# Archivos de logs 
 logs
 *.log
 npm-debug.log*
