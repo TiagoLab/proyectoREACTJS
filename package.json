@@ -2,7 +2,7 @@
   "name": "react-tiago-app",
   "private": true,
   "version": "0.0.0",
-  "description": "Proyecto React del curso, con personalizaciones hechas por Tiago.",
+  "description": "Proyecto React del curso",
   "author": "Tiago",
   "type": "module",
   "scripts": {
