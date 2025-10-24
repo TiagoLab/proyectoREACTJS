@@ -1,4 +1,4 @@
-// Configuración Vite personalizada por Tiago — Octubre 2025
+
 
 import { defineConfig } from 'vite'
 import pluginReact from '@vitejs/plugin-react'
@@ -7,7 +7,7 @@ import pluginReact from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [pluginReact()],
   server: {
-    port: 5174 // Puerto personalizado por Tiago
+    port: 5174 
   }
 })
 
