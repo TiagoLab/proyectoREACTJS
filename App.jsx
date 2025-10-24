@@ -12,7 +12,7 @@ import RutaProtegida from './clase-07/RutaProtegida.jsx'
 import { useState } from 'react'
 
 function App() {
-  // Modificación por Tiago: renombré variables para personalizar el código
+  // renombré variables para personalizar el códigoó
   const [usuarioAutenticado, setUsuarioAutenticado] = useState(false);
 
   const manejarInicioSesion = () => setUsuarioAutenticado(true);
