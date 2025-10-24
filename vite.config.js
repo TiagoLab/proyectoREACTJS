@@ -1,2 +1,13 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+// Configuración Vite personalizada por Tiago — Octubre 2025
+
+import { defineConfig } from 'vite'
+import pluginReact from '@vitejs/plugin-react'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [pluginReact()],
+  server: {
+    port: 5174 // Puerto personalizado por Tiago
+  }
+})
+
