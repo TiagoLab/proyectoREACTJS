@@ -1,4 +1,4 @@
-// Configuración ESLint personalizada por Tiago — ajustes mínimos para dejar mi marca
+
 
 import js from '@eslint/js'
 import globals from 'globals'
